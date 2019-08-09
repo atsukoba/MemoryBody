@@ -47,8 +47,5 @@ for i in range((4*6)-2):  # 22
 
 tile = tile.transpose(1, 0, 2)
 
-import matplotlib.pyplot as plt
-%matplotlib inline
-
 cv2.imwrite("sample_texture.png", tile)
 print("Saved your img file for Texture")
