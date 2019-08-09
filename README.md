@@ -8,7 +8,7 @@ A project at computational creativity lab summer camp hackathon 2019
 
 As a memory, data of the past posts on SNS binds the person's own identity, behavior and the next post. We bring out the situation by make a user wear its past SNS posts data.
 
-![](./img/wear.png)
+![](./memory_body.png)
 
 ## Materials / Methods / Implementation
 
