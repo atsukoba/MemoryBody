@@ -2,7 +2,7 @@
 
 A project at computational creativity lab summer camp hackathon 2019
 
-![sample image](https://i.gyazo.com/6efebd8224398e9745b6a2a106ff5345.jpg)
+![sample image](./memory_body_2.png)
 
 ## Introduction/Concept
 
