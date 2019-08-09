@@ -1,0 +1,3 @@
+[submodule "DensePose"]
+	path = DensePose
+	url = git@github.com:facebookresearch/DensePose.git
